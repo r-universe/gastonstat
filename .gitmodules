@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "plspm"]
+	path = plspm
+	url = https://github.com/gastonstat/plspm
+	shallow = true
+	registered = true
