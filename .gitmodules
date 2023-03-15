@@ -8,3 +8,13 @@
 	url = https://github.com/gastonstat/plspm
 	shallow = true
 	registered = true
+[submodule "tester"]
+	path = tester
+	url = https://github.com/gastonstat/tester
+	shallow = true
+	registered = true
+[submodule "turner"]
+	path = turner
+	url = https://github.com/gastonstat/turner
+	shallow = true
+	registered = true
