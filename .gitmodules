@@ -8,9 +8,3 @@
 [submodule "plspm"]
 	path = plspm
 	url = https://github.com/gastonstat/plspm
-[submodule "tester"]
-	path = tester
-	url = https://github.com/gastonstat/tester
-[submodule "turner"]
-	path = turner
-	url = https://github.com/gastonstat/turner
